@@ -45,6 +45,8 @@ Transformer-based Models:
 BERT's success paved the way for various transformer-based models in NLP.
 Models like GPT-2, GPT-3, and Transformer-XL introduced advancements in language generation, language understanding, and handling long-range dependencies.
 These models often require substantial computational resources for training and inference but offer remarkable capabilities in natural language understanding and generation.
+
+Check output for this project : https://nbviewer.org/github/urvilatnekar/Multi-Class-Text-Classification-using-BERT/blob/master/Multi-Class%20Text%20Classification%20using%20BERT.ipynb
 References:
 •	https://huggingface.co/
 •	https://arxiv.org/abs/1810.04805
